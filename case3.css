@@ -50,6 +50,17 @@ body {
     border-radius: 10px;
     float: left;
 }
+#teams{
+    background-color: #78C0E0;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    max-width: 5%;
+    max-height: 5%;
+}
 #bottom{
     border-top-style: solid;
     padding: 10px;
